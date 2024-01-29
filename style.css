@@ -5,7 +5,7 @@ body, h1, h2, p, ul, li, table {
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #f8f5f5;
     margin: 0;
     padding: 0;
 }
@@ -16,7 +16,7 @@ h1 {
 }
 
 nav {
-    background-color: #333;
+    background-color: #ab8fce;
     color: white;
     padding: 10px;
 }
@@ -44,7 +44,7 @@ table {
 }
 
 table, th, td {
-    border: 1px solid #333;
+    border: 2px solid #333;
 }
 
 th, td {
@@ -59,7 +59,7 @@ img {
 }
 
 footer {
-    background-color: #333;
+    background-color: #333333;
     color: white;
     text-align: center;
     padding: 10px;
@@ -80,15 +80,12 @@ imgcontainer {
 p {
     text-align: justify;
 }
-
-#education table, #projects table, #skills p {
+p {
     margin: 20px 0;
 }
-
-#skills p {
-    font-weight: bold;
+p {
+    font-weight: normal;
 }
-
-#hobbies p {
+p {
     margin-bottom: 20px;
 }
